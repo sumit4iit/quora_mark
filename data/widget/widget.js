@@ -6,3 +6,5 @@ this.addEventListener('click', function(event) {
     self.port.emit('right-click');
     event.preventDefault();
 }, true);
+
+
